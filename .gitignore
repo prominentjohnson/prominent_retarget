@@ -1,1 +1,15 @@
 humanoid/third_party/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# MuJoCo
+MUJOCO_LOG.TXT
+
+# Training outputs (Isaac Lab / rsl_rl)
+logs/
+outputs/
+wandb/
