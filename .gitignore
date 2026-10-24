@@ -1,4 +1,4 @@
-humanoid/third_party/
+third_party/
 
 # Python
 .venv/
